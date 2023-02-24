@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align='center'>Pokedex</h1>
 
 <p align='center'>
@@ -55,3 +56,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+=======
+# pokemon
+>>>>>>> c95c674985dc03d392856c0da0769d10d3841bf0
